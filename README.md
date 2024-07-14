@@ -1,7 +1,6 @@
 
-# Buscador de CEP
+## Buscador de CEP
 ## Integração de API viacep para busca de endereços
-<br>
 ### Tecnologia
 <br>
 ## Frontend
